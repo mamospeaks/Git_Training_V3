@@ -1,4 +1,2 @@
 This is my file
 This is test file
-
-git revert change 2
