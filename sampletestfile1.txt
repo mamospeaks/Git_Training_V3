@@ -1,2 +1,6 @@
 This is my file
 This is test file
+
+this is branch merging
+
+hello
