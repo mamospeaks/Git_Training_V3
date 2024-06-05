@@ -7,3 +7,4 @@ hello
 This is sample test file
 
 This is stash lecture in file1
+This is stash lecture, change in sampletestfile
