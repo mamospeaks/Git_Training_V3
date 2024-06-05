@@ -5,3 +5,5 @@ this is branch merging
 
 hello
 This is sample test file
+
+This is stash lecture in file1
